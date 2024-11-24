@@ -1,0 +1,6 @@
+yfinance
+pandas
+matplotlib
+numpy
+scipy
+cvxpy  # pro případnou optimalizaci portfolia
